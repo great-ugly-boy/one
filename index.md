@@ -16,9 +16,6 @@
 		
 		</font>
 		
-		
-				<img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1395236956,3027294832&fm=58&w=121&h=140&img.JPEG" >
-		
 
 	</body>
 
